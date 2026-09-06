@@ -1,30 +1,38 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  
-  <br />
-  <br />
 
-  <h1 align="center">Animation of Fourier Series Convergence</h1>
+  <!-- Dynamic SVG Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=250&section=header&text=Fourier%20Series%20Engine&fontSize=60&fontColor=ffffff&animation=twinkling&desc=High-Performance%20Mathematical%20Visualization&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 
+  <br><br>
+
+  <!-- Technology Badges -->
   <p align="center">
-    <strong>A high-performance, mathematically rigorous interactive visualization engine.</strong>
+    <img src="https://img.shields.io/badge/Vanilla_JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3_Glassmorphism-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/60_FPS_Rendering-FF2D20?style=for-the-badge&logo=c&logoColor=white" alt="Performance" />
   </p>
   
+  <br>
+
+  <!-- Primary Demo Button -->
   <p align="center">
     <a href="https://sathishr-ai.github.io/Fourier-viz-engine/">
-      <img src="https://img.shields.io/badge/⚡_Live_Demo_Available_Here-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo" />
+      <img src="https://img.shields.io/badge/⚡_LAUNCH_LIVE_APPLICATION-2ea44f?style=for-the-badge&logo=github&logoColor=white&scale=1.5" alt="Live Demo" />
     </a>
   </p>
-  <br />
 
+  <br>
+
+  <!-- Quick Links -->
   <p align="center">
-    <a href="#about-the-project">About</a> •
-    <a href="#mathematical-architecture">Architecture</a> •
-    <a href="#core-features">Features</a> •
-    <a href="#technical-implementation">Implementation</a>
+    <kbd> <a href="#about-the-project"><b>🔬 About</b></a> </kbd> &nbsp;•&nbsp;
+    <kbd> <a href="#mathematical-architecture"><b>📐 Architecture</b></a> </kbd> &nbsp;•&nbsp;
+    <kbd> <a href="#core-features"><b>⚡ Features</b></a> </kbd> &nbsp;•&nbsp;
+    <kbd> <a href="#technical-implementation"><b>🛠 Implementation</b></a> </kbd>
   </p>
+  
+  <hr style="width: 80%; border: 1px solid #333;" />
 </div>
 
 ---
