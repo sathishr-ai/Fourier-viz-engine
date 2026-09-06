@@ -14,7 +14,7 @@
   
   <p align="center">
     <a href="https://sathishr-ai.github.io/Fourier-viz-engine/">
-      <img src="https://img.shields.io/badge/⚡_Live_Demo_Available_Here-000000?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo" />
+      <img src="https://img.shields.io/badge/⚡_Live_Demo_Available_Here-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo" />
     </a>
   </p>
   <br />
