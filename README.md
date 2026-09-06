@@ -3,8 +3,6 @@
   <!-- Dynamic SVG Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=250&section=header&text=Fourier%20Series%20Engine&fontSize=60&fontColor=ffffff&animation=twinkling&desc=High-Performance%20Mathematical%20Visualization&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 
-  <br><br>
-
   <!-- Technology Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Vanilla_JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -12,8 +10,6 @@
     <img src="https://img.shields.io/badge/CSS3_Glassmorphism-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/60_FPS_Rendering-FF2D20?style=for-the-badge&logo=c&logoColor=white" alt="Performance" />
   </p>
-  
-  <br>
 
   <!-- Primary Demo Button -->
   <p align="center">
@@ -21,8 +17,6 @@
       <img src="https://img.shields.io/badge/⚡_LAUNCH_LIVE_APPLICATION-2ea44f?style=for-the-badge&logo=github&logoColor=white&scale=1.5" alt="Live Demo" />
     </a>
   </p>
-
-  <br>
 
   <!-- Quick Links -->
   <p align="center">
