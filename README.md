@@ -11,12 +11,18 @@
   <p align="center">
     <strong>A high-performance, mathematically rigorous interactive visualization engine.</strong>
   </p>
+  
+  <p align="center">
+    <a href="https://sathishr-ai.github.io/Fourier-viz-engine/">
+      <img src="https://img.shields.io/badge/⚡_Live_Demo_Available_Here-000000?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo" />
+    </a>
+  </p>
+  <br />
 
   <p align="center">
     <a href="#about-the-project">About</a> •
     <a href="#mathematical-architecture">Architecture</a> •
     <a href="#core-features">Features</a> •
-    <a href="#visual-demo">Demo</a> •
     <a href="#technical-implementation">Implementation</a>
   </p>
 </div>
