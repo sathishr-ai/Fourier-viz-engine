@@ -1,0 +1,15 @@
+# Ignore Python development test scripts
+*.py
+*.pyc
+__pycache__/
+
+# Ignore JS independent test scripts
+test_*.js
+temp.js
+
+# Ignore generated output files (optional if you want Word document ignored)
+# *.docx
+
+# OS specific files
+.DS_Store
+Thumbs.db
